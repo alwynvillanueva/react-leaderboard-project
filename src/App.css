@@ -1,0 +1,40 @@
+body {
+	background: #EEEEEE;
+}
+.Leaderboard {
+	font-family: 'Roboto Mono', monospace;
+	width: 400px;
+	background: #FFFFFF;
+  box-shadow: 0 5px 10px -5px rgba(black, .2);
+  margin: 10vh auto;
+}
+.Title {
+		padding: 20px;
+		background: #A82C17;
+		color: white;
+		font-weight: 700;
+		text-transform: uppercase;
+		text-align: center;
+	}
+.updates{
+  background: #090E0E;
+  font-size: 12px;
+  padding:10px;
+}
+ul {
+  padding: 20px;
+}
+.Person {
+  align-items: center;
+  background-size: cover;
+  display: flex;
+  margin-bottom: 10px;
+}
+.Player {
+    margin-left: 10px;
+}
+
+.mmr {
+  margin-left: auto;
+  font-weight: 700;
+}
